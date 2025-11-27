@@ -6,8 +6,8 @@ Deep Learning Solution for Hyperpartisan News Detection - Natural Language Proce
 - **Module**: 7120CEM - Natural Language Processing
 - **Coursework**: CW2 - Deep Learning Solutions
 - **University**: Coventry University
-- **Student**: [Your Name]
-- **Student ID**: [Your ID]
+- **Student**: Rishikesh Rajendran Latha
+- **Student ID**: 16341366
 
 ## 🎯 Project Overview
 This project implements a deep learning solution for hyperpartisan news detection using BERT transformer models. The work compares deep learning approaches with traditional machine learning methods from CW1.
